@@ -9,7 +9,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
-    background-image: url(img/bgimagemin01.png);
+    background-image: url(https://github.com/JuntaLaw/kadai02/blob/main/img/bgimagemin01.png?raw=true);
     background-size: contain;
     background-position: center;
 } 
@@ -67,7 +67,7 @@ h3{
   width: 300px;
   height: 500px;
   border: solid 10px #eeecec;
-  background-image: url(img/bgimagemin02.png);
+  background-image: url(https://github.com/JuntaLaw/kadai02/blob/main/img/bgimagemin02.png?raw=true);
   background-size: cover;
   background-position: center;
   z-index: 1;
